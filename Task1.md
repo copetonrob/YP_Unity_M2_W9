@@ -48,6 +48,6 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/unity7.png" width="600"/>
 
-8. Запусти проект, посмотри заработала ли анимация. Поделись скриншотом на доске Миро.
+9. Запусти проект, посмотри заработала ли анимация. Поделись скриншотом на доске Миро.
 
 <img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/knight_dance.gif" width="300"/>
