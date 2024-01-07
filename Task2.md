@@ -14,14 +14,14 @@
 
 3. Добавь анимации в Animator Controller
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity1.png" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity1.png" width="800"/>
 
 4. Добавь переходы между анимациями
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity3.png" width="400"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity3.png" width="600"/>
 
 5. Настрой переходы между анимациями
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity2.png" width="400"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity2.png" width="600"/>
 
 6. Запусти проект и проверь, что анимации проигрываются и сменяют друг друга.
