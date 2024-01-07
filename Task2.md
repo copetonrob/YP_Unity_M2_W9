@@ -4,7 +4,7 @@
 
 В этом задании мы добавим несколько анимаций и настроим переходы между ними в аниматор контроллере.
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/knight2.gif" width="400"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/knight2.gif" width="800"/>
 
 ## Инструкция
 
@@ -18,10 +18,10 @@
 
 4. Добавь переходы между анимациями
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity3.png" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity3.png" width="800"/>
 
 5. Настрой переходы между анимациями
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity2.png" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity2.png" width="800"/>
 
 6. Запусти проект и проверь, что анимации проигрываются и сменяют друг друга.
