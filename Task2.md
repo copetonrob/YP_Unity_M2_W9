@@ -14,7 +14,7 @@
 
 3. Добавь анимации в Animator Controller
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity1.png" width="800"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/task2_unity0.png" width="800"/>
 
 4. Добавь переходы между анимациями
 
