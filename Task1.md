@@ -4,7 +4,7 @@
 
 В этом задании мы выберем своего персонажа и настроим одну анимацию для него.
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/mixamo1.png" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/knight_dance.gif" width="300"/>
 
 ## Инструкция
 
@@ -40,8 +40,14 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/unity4.png" width="600"/>
 
-7. Создай Animator Controller. Добавь ссылки в компонент Animator у персонажа на Animator Controller и на аватар персонажа и добавь анимацию в аниматор контроллер.
+7. Создай Animator Controller. 
 
-<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/unity5.png" width="600"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/unity6.png" width="600"/>
+
+8. Открой Animator Controller. Добавь ссылки в компоненте Animator на Animator Controller и на аватар персонажа. Закинь анимацию в окно Animator Controller
+
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/unity7.png" width="600"/>
 
 8. Запусти проект, посмотри заработала ли анимация. Поделись скриншотом на доске Миро.
+
+<img src="https://github.com/copetonrob/YP_Unity_M2_W9/blob/main/img/knight_dance.gif" width="300"/>
